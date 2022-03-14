@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Treedans
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Python and JavaScript
 
 <!---
