@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/f0dd411f-f3ea-4605-bbfb-35f662fe6ca7)
+![Banner](strongestonecancry.png)
 
 <h1 align="center">Hi 👋, Treexle Here!</h1>
 
