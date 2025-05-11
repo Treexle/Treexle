@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, Treexle Here!</h1>
 
-___
-
 <h3 align="center">Game Developer and Front-end Web Developer</h3>
 
 <p align="center">
@@ -13,8 +11,6 @@ ___
   />
 </p>
 
-===
-
 ### 💫 About Me:
 
 - 🔭 I’m currently working on Random Project during my free time
@@ -22,8 +18,6 @@ ___
 - 📫 How to reach me **treexle3@gmail.com**
 - 🏫 High School Student
 - ⚡ Fun fact **Normal People**
-
-===
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,8 +42,6 @@ ___
       width="40"
   /></a>
 </p>
-
-===
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -235,8 +227,6 @@ ___
   </a>
 </p>
 
-===
-
 ### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Treedans&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -246,7 +236,5 @@ ___
 ### 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Treedans&theme=react&no-frame=false&no-bg=true&margin-w=4)
-
-===
 
 [![](https://visitcount.itsvg.in/api?id=Treedans&icon=2&color=3)](https://visitcount.itsvg.in)
