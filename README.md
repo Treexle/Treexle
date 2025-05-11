@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, Treexle Here!</h1>
 
-===
+---
 
 <h3 align="center">Game Developer and Front-end Web Developer</h3>
 
@@ -71,7 +71,7 @@
     rel="noreferrer"
   >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg"
       alt="css3"
       width="40"
       height="40"
@@ -83,7 +83,7 @@
     rel="noreferrer"
   >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"
       alt="html5"
       width="40"
       height="40"
@@ -95,7 +95,7 @@
     rel="noreferrer"
   >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"
       alt="javascript"
       width="40"
       height="40"
@@ -107,7 +107,7 @@
     rel="noreferrer"
   >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg"
       alt="dotnet"
       width="40"
       height="40"
@@ -143,7 +143,7 @@
     rel="noreferrer"
   >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"
       alt="linux"
       width="40"
       height="40"
@@ -155,7 +155,7 @@
     rel="noreferrer"
   >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
       alt="mongodb"
       width="40"
       height="40"
@@ -174,24 +174,12 @@
     />
   </a>
   <a
-    href="https://www.oracle.com/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="oracle"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
     href="https://www.php.net"
     target="_blank"
     rel="noreferrer"
   >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+      src="https://www.vectorlogo.zone/logos/php/php-icon.svg"
       alt="php"
       width="40"
       height="40"
@@ -203,7 +191,7 @@
     rel="noreferrer"
   >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      src="https://www.vectorlogo.zone/logos/python/python-icon.svg"
       alt="python"
       width="40"
       height="40"
@@ -227,7 +215,7 @@
     rel="noreferrer"
   >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"
       alt="typescript"
       width="40"
       height="40"
