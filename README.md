@@ -1,22 +1,29 @@
-![Banner](strongestonecancry.png)
+![Banner](strongestonecancry-min.png)
 
 <h1 align="center">Hi 👋, Treexle Here!</h1>
 
+===
+
 <h3 align="center">Game Developer and Front-end Web Developer</h3>
 
-<p align="left">
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=Treedans&label=Profile%20views&color=0e75b6&style=flat"
     alt="Treexle"
   />
 </p>
 
+===
+
 ### 💫 About Me:
 
 - 🔭 I’m currently working on Random Project during my free time
 - 🌱 I’m currently learning Godot Engine
 - 📫 How to reach me **treexle3@gmail.com**
+- 🏫 High School Student
 - ⚡ Fun fact **Normal People**
+
+===
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,6 +48,8 @@
       width="40"
   /></a>
 </p>
+
+===
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -158,7 +167,7 @@
     rel="noreferrer"
   >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
       alt="nodejs"
       width="40"
       height="40"
@@ -238,6 +247,8 @@
   </a>
 </p>
 
+===
+
 ### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Treedans&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -247,5 +258,7 @@
 ### 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Treedans&theme=react&no-frame=false&no-bg=true&margin-w=4)
+
+===
 
 [![](https://visitcount.itsvg.in/api?id=Treedans&icon=2&color=3)](https://visitcount.itsvg.in)
