@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=Treedans&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=Treexle&label=Profile%20views&color=0e75b6&style=flat"
     alt="Treexle"
   />
 </p>
@@ -229,15 +229,15 @@
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Treedans&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Treedans&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Treedans&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Treexle&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Treexle&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Treexle&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Treedans&theme=react&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Treexle&theme=react&no-frame=false&no-bg=true&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=Treedans&icon=2&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Treexles&icon=2&color=3)](https://visitcount.itsvg.in)
 
 <img src="https://raw.githubusercontent.com/Treexle/Treexle/output/snake.svg" alt="Snake animation" />
 
