@@ -189,6 +189,18 @@
       height="40"
     />
   </a>
+    <a
+    href="https://react.dev/learn"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
+      alt="reactjs"
+      width="40"
+      height="40"
+    />
+  </a>
   <a
     href="https://www.typescriptlang.org/"
     target="_blank"
