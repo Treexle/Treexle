@@ -94,18 +94,6 @@
     />
   </a>
   <a
-    href="https://dotnet.microsoft.com/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg"
-      alt="dotnet"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
     href="https://www.figma.com/"
     target="_blank"
     rel="noreferrer"
