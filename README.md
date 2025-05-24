@@ -231,7 +231,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Treexle&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Treexle&theme=react&hide_border=false)<br/>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Treexle&theme=react&border_radius=32&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Treexle&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ===
